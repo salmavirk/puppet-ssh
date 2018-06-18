@@ -1,0 +1,15 @@
+{
+  "name": "svirk-ssh",
+  "version": "0.1.0",
+  "author": "Salma Virk <salma_tahir@hotmail.com>",
+  "summary": "This module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/salmavirk/puppet-ssh",
+  "project_page": "https://github.com/salmavirk/puppet-ssh",
+  "issues_url": "https://github.com/salmavirk/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
